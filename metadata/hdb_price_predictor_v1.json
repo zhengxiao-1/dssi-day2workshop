@@ -1,0 +1,8 @@
+{
+    "name": "hdb_price_predictor",
+    "description": "Linear regression model for HDB resale price prediction",
+    "version": 1,
+    "registration_date": "2025-05-31T14:49:18.687432",
+    "model": "hdb_price_predictor_model_v2.joblib",
+    "features": "hdb_price_predictor_features_v2.joblib"
+}
